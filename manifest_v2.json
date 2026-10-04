@@ -1,0 +1,110 @@
+{
+  "item": {
+    "id": "com.SoDictionary.Russian.solan",
+    "restype": "quick_app",
+    "name": "So词典-俄汉词典",
+    "description": "此处为俄语词典，你可搜索\"So词典\"来查看其他 日汉/古汉语/英汉/德汉  词典~\n\n支持俄汉互译的离线词典，包含了高考和常见词汇！\n--1.支持俄语&汉语互译；\n-- 2.涵盖高考词汇+部分常见词汇；\n-- 3.支持快速搜索&全部搜索&模糊搜索&精确搜索；\n-- 4.支持在手机和手表端收藏和查看词汇；\n-- 5.支持在手机和手表端查看词汇统计数据；\n-- 6.手机端支持播放词汇朗读发音[需要手机系统带有相关原生组件]",
+    "preview": [
+      "media/Frame 1.png",
+      "media/212-514.png",
+      "media/432-514.png",
+      "media/Shell++_1 (1)(1).png",
+      "media/shot1790881586.png",
+      "media/shot1790881599.png",
+      "media/shot1790881604.png",
+      "media/shot1790881639.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/Frame 2.png",
+    "author": [
+      {
+        "name": "Solan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmrw6": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmrw5xring": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb10": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb10nfc": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb10p": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb11": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb11nfc": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb9": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmb9p": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmws3": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmws4xring": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmws441": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmws4": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmws541": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    },
+    "xmws5": {
+      "version": "1.5.4",
+      "file_name": "downloads/So词典-俄汉.rpk",
+      "versionCode": 9
+    }
+  },
+  "ext": {}
+}
