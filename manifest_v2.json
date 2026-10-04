@@ -23,7 +23,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "官网&介绍",
+      "url": "https://cdn.solan.work/SoDictionary/",
+      "icon": "link"
+    }
+  ],
   "downloads": {
     "xmrw5": {
       "version": "1.5.4",
